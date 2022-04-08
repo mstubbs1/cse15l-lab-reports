@@ -4,7 +4,8 @@ Hello, Testing
 # Test Heading #
 [test link](https://youtube.com)
 ## Another Test Heading ## 
-*One
-*Two
-*Three 
+* One
+* Two
+* Three
+--- 
 
