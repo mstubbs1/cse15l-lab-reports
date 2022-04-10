@@ -14,6 +14,14 @@ Once you have successfully installed visual studio code onto your Mac, you can c
 
 ![Image](https://github.com/mstubbs1/cse15l-lab-reports/blob/main/terminal.png)
 
-## Now That You Have a Terminal: 
+## Now That You Have a Terminal
 
-You can connect to your `ieng6` account. Do this by typing in the terminal `ssh cs15lsp22zz@ieng6.ucsd.edu` With the "zz" replaced by your 2-3 unique  characters that can be found in your course directory. The link for that can be found [here](https://sdacs.ucsd.edu/~icc/index.php).
+You can connect to your `ieng6` account. Do this by typing in the terminal `ssh cs15lsp22zz@ieng6.ucsd.edu` With the "zz" replaced by your 2-3 unique  characters that can be found in your course directory. The link for that can be found [here](https://sdacs.ucsd.edu/~icc/index.php). Once you type the command into the terminal, make sure to type "yes" when it asks you permission to continue connecting to the host.
+
+![Image](https://github.com/mstubbs1/cse15l-lab-reports/blob/main/sign.jpg)
+
+*While this screenshot was taken in windows powershell, it's the exact same on a mac terminal.*
+
+## Testing Some Commands 
+
+An important command to note is `ls`. This command stands for "list files" and list all the files in the directory you are currently in.
