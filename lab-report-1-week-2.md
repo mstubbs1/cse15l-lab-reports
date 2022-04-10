@@ -16,4 +16,4 @@ Once you have successfully installed visual studio code onto your Mac, you can c
 
 ## Now That You Have a Terminal: 
 
-You can connect to your `ieng6` account. Do this by typing in the terminal `ssh cs15lsp22zz@ieng6.ucsd.edu` With the "zz" replaced by your 2-3 unique  characters that can be found in your course directory. The link for that can be found [here](https://sdacs.ucsd.edu/~icc/index.php)
+You can connect to your `ieng6` account. Do this by typing in the terminal `ssh cs15lsp22zz@ieng6.ucsd.edu` With the "zz" replaced by your 2-3 unique  characters that can be found in your course directory. The link for that can be found [here](https://sdacs.ucsd.edu/~icc/index.php).
