@@ -4,7 +4,7 @@
 # Hello Future CSE15L Students 
 Today I will be guiding you on how to use your course specific account on the `ieng6` server.
 
-**Disclaimer** : This guide will be centered around **MacOS**, so this tutorial is assuming that you will be using **MacOS** as there is a pretty large difference on how to do this if you're using a windows pc or a mac.
+**Disclaimer** : This guide will be centered around **MacOS**, so this tutorial is assuming that you will be using **MacOS** as there are a few key differences on how to do this if you're using a windows pc.
 
 ## Firstly... 
 You need to have Visual Studio Code installed. To do this, go to the [Visual Studio Code Website](https://code.visualstudio.com/download) and downlad the version for your corresponding operating system. *Again, this guide will be focusing on doing all of this on MacOS*. 
