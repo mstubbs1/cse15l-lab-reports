@@ -64,9 +64,19 @@ Then copy the public key to your ieng6 account in the server. `ssh` into you acc
  
  `scp /Users/username/.ssh/id_rsa2.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys`
 
- **Note** : The path, public key file name and zz should all be changed to accomadate your unique file and user names. 
+ **Note** : The path, public key file name and the "zz"within the cs15l account should all be changed to accomadate your unique file and user names. 
 
 ## Optimizing Remote Running
+
+Putting a command in quotes after the `ssh` command allows you to run a command within the remote server and exit after running it. An example of this being used is: 
+
+![Image](https://github.com/mstubbs1/cse15l-lab-reports/blob/main/sshquote.jpg)
+
+Another important thing to note is you can run several commands withing the same line by seperating them with semicolons. An example of this looks like: 
+
+`ls ; ls -a `
+
+
 
 
 
