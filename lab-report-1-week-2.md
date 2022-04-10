@@ -38,3 +38,17 @@ Moving files between your local computer to the computer in the cse basement can
 
 It's important to note that text.txt can be replace with the file you are going to move and the "zz" should be replaced with your unique 2-3 charecters of your cs15l account. 
 
+![Image](https://github.com/mstubbs1/cse15l-lab-reports/blob/main/scp.png)
+
+**Note** : You will be asked to type in your password here
+
+## Setting an ssh Key 
+
+Setting an ssh key is importnat to make things easier by not having to type in your passoword every single time you want to log in to your account, or move files between computers. This is possible by using an "ssh key". To do this, we use a program within the terminal called "ssh-keygen".
+
+The first step should be to open a terminal (without connecting to ieng6 server) and type in the command `ssh-keygen`
+
+The terminal will then tell you to "enter a file in which to save the key". For this just type the directory it gives you and replace the backslashes with forward slashes if there are any. 
+
+
+
