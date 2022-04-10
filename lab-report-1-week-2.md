@@ -50,5 +50,29 @@ The first step should be to open a terminal (without connecting to ieng6 server)
 
 The terminal will then tell you to "enter a file in which to save the key". For this just type the directory it gives you and replace the backslashes with forward slashes if there are any. 
 
+![Image](https://github.com/mstubbs1/cse15l-lab-reports/blob/main/keygen.png)
+
+(for this demonstration I changed the file name to "id_rsa2" to not break any keygens already within my computer.)
+
+Once you type in the directory, it asks you to create a passphrase, but just leave this blank and hit enter twice. The key-gen should generate some randomart which looks like this: 
+
+![Image](https://github.com/mstubbs1/cse15l-lab-reports/blob/main/keygen2.png)
+
+Then copy the public key to your ieng6 account in the server. `ssh` into you account like earlier in this tutorial, once in type the command `mkdir .ssh`
+
+ This comand creates a directory called ".ssh" in your account. Once this has been run you can `exit` out and back on your cliet you can use `scp` to move the public key into your new .ssh directory in your ieng6 account. The command to move the public key is:  
+ 
+ `scp /Users/username/.ssh/id_rsa2.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys`
+
+ **Note** : The path, public key file name and zz should all be changed to accomadate your unique file and user names. 
+
+## Optimizing Remote Running
+
+
+
+
+
+
+
 
 
