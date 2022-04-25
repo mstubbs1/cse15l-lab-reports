@@ -51,6 +51,7 @@ Symptom of the failure inducing input is:
 (base) astoria@Astorias-MacBook-Pro markdown-parser % java MarkdownParse test-file3.md
 [hi, hi.com]
 ```
+
 The correct output should be:   
 `[hi.com, hi.com]`  
 
