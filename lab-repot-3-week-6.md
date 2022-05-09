@@ -2,6 +2,13 @@
 
 ## Streamlining `SSH` Configuration
 
+My .ssh config file on my windows pc, edited with notepad :  
+![Image](https://github.com/mstubbs1/cse15l-lab-reports/blob/main/config2.jpg?raw=true)  
+Logging into ieng 6 from just typing in `ssh ieng6`:  
+![Image](https://github.com/mstubbs1/cse15l-lab-reports/blob/main/sshieng6.jpg?raw=true)  
+Scp'ing a file using only the ieng6 alias:  
+![Image](https://github.com/mstubbs1/cse15l-lab-reports/blob/main/testAlias2.jpg?raw=true)
+
 ## Setup Github Access from Ieng6
 
 My public key on github :  
