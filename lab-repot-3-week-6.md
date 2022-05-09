@@ -26,7 +26,7 @@ Screenshot logging in to ieng6 and doing tests :
 *Note: even though the tests are failures I was still able to execute the commands remotely on ieng6*
 
 Screenshot combining scp and running tests all in one line:   
-![Image]((https://github.com/mstubbs1/cse15l-lab-reports/blob/main/part3p1.jpg?raw=true)    
-![Image]((https://github.com/mstubbs1/cse15l-lab-reports/blob/main/par3p2.jpg?raw=true)    
-*Note: Note: even though the tests are failures I was still able to execute the commands remotely on ieng6 all in one line*
+![Image](https://github.com/mstubbs1/cse15l-lab-reports/blob/main/part3p1.jpg?raw=true)    
+![Image](https://github.com/mstubbs1/cse15l-lab-reports/blob/main/par3p2.jpg?raw=true)    
+*Note:even though the tests are failures I was still able to execute the commands remotely on ieng6 all in one line*
  
